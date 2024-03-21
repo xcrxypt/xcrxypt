@@ -1,16 +1,11 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/xcrxypt/xcrxypt/assets/161102342/2d86db1e-a8f1-4c25-93af-f6e34a57d4af.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2323&random=false&width=435&lines=Salve+Salve;Bem+-+Vindo+ao+meu+perfil" width="70%" />
+<br><br>
+<pre>
+    🎮 Music • Games • Codes •
+</pre>
+<br><br>
+<img src="https://github.com/xcrxypt/xcrxypt/assets/161102342/05530672-2f6f-48ef-ab1c-1bbdfc2e9afe.gif" height="250" />
+<br><br><br>
 
-<!--
-**xcrxypt/xcrxypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
