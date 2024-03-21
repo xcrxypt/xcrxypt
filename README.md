@@ -9,7 +9,7 @@
 </pre>
 <br><br>
             ![xcrxypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcrxypt&show_icons=true&theme=dracula&count_private=true)
-            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcrxypt&layout=compact)
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcrxypt&layout=compact)
 
 
 <img src="https://github.com/xcrxypt/xcrxypt/assets/161102342/05530672-2f6f-48ef-ab1c-1bbdfc2e9afe.gif" height="250" />
