@@ -7,7 +7,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=852222&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%3A)" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-  <a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=xcrxypt&hide_border=true&show_icons=true" alt="xcrypt's github stats"></a>
+  <a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=xcrxypt&show_icons=true&theme=shadow_red" alt="xcrypt's github stats"></a>
 </p>
 
 <p align="center">
