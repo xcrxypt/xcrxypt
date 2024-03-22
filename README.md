@@ -1,17 +1,17 @@
+<p align="center">
+  <a href="https://ww.edionlee55.com"><img src=https://github.com/edisonlee55/edisonlee55/assets/161102342/50718296-51a5-4b99-9e05-564c0e01b869
+ alt="Banner"></a>
+</p>
 
-<div align="center">
-    <img src="https://github.com/xcrxypt/xcrxypt/assets/161102342/fd796878-df93-40f2-94cd-56d28f2fe46e.gif" width="90%" align="right" />
-    <img src="https://readme-typing-svg.demolab.com?https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2323&random=false&width=435&lines=Salve+Salve;Bem+-+Vindo+ao+meu+perfil" width="5000%" />
-<br><br>
-    
-<pre>
-🎮Music • Games • Codes •
-</pre>
-<br><br>
-            ![xcrxypt's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcrxypt&show_icons=true&theme=dracula&count_private=true)
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcrxypt&layout=compact)
+<h1 align="center"> <a href=<a href="><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=852222&random=false&width=435&lines=Hi+!+I'm+xcrxypt!" alt="Typing SVG" /></a> </a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=852222&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%3A)" alt="Typing SVG" /></a></h1>
 
+<p align="center">
+  <a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=xcrxypt&hide_border=true&show_icons=true" alt="xcrypt's github stats"></a>
+</p>
 
-<img src="https://github.com/xcrxypt/xcrxypt/assets/161102342/05530672-2f6f-48ef-ab1c-1bbdfc2e9afe.gif" height="250" />
-<br><br><br>
-![kYntlXK](https://github.com/xcrxypt/xcrxypt/assets/161102342/fd796878-df93-40f2-94cd-56d28f2fe46e)
+<p align="center">
+  <strong><a href="https://www.instagram.com/vinininh/">Intagram</a></strong>
+</p>
+
+<p align="center">❤ I like game, Study JavaScript Currently
