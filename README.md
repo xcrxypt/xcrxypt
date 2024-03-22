@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.instagram.com/vinininh/">Intagram</a></strong>
+  <strong><a href="https://www.instagram.com/vinininh/"><img src="https://img.shields.io/badge/Instagram-7a1b0c?style=for-the-badge&logo=instagram&logoColor=white"></a></strong>
 </p>
 
-<p align="center">❤ I like game, Study JavaScript Currently
+<p align="center">
+  <span style=color:#7a1b0c>🫂 I'm like game, learning</span>
+</p>
