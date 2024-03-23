@@ -3,9 +3,9 @@
  alt="Banner"></a>
 </p>
 
-<h1 align="center"> <a href=<a href="><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=b87e14&random=false&width=435&lines=Hi+!+I'm+xcrxypt!;Welcome+to+my+GitHub+profile" alt="Typing SVG"
-<a align="center" ref="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&color=b87e14&random=false&width=435&lines=Welcome+to+my+GitHub+profile+%3A)" alt="Typing SVG" 
-<a align="center"><a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=xcrxypt&show_icons=true&theme=vision-friendly-dark" alt="xcrypt's github stats>/></a></h1>
+<h1 
+<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D58300&random=false&width=435&lines=Hi+I'm+xcrxypt+!;Welcome+to+my+GitHub+profile" alt="Typing SVG"/></a>
+<a align="center"><a href="https://github.com/xcrxypt"><img src="https://github-readme-stats.vercel.app/api?username=xcrxypt&show_icons=true&theme=vision-friendly-dark" alt="xcrypt's github stats>/></a>
   </h1>
 </p>
 
