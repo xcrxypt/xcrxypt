@@ -18,3 +18,5 @@
 </h1>
 </p>
 <div>
+
+![Snake animation](https://github.com/xcrxypt/xcrxypt/blob/output/github-contribution-grid-snake.svg)
